@@ -1,5 +1,4 @@
-# CPNet
-CPNet (CVPR'23)
+# CPNet (CVPR'23)
 
 * This repo will release an official **PaddlePaddle** implementation for paper: Context-aware Pretraining for Efficient Blind Image Decomposition.
 
